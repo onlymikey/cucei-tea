@@ -10,7 +10,7 @@ Requirements: Yes
 Please add entries to the following table:
 
 
-| Profesor                 |            Materia              | Recomendado (1 - 5 ) | Comentario |  Autor  |
+| Profesor                 |            Materia              | Recomendado (1 - 5 )| Comentario |  Autor  |
 | :----------------------- | :-----------------------------: | -------------------: | :---------:| :------:|
 | Juan Jose Lopez Cisneros |   Fundamentos de programacion   |     ⭐⭐⭐⭐⭐     | Tqm Juanjo | [onlymikey](https://github.com/onlymikey)|
 
